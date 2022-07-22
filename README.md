@@ -4,8 +4,6 @@ Like the title says, this is a shader in Blender specifically designed for (most
 ## Feel free to tag me on my Twitter (@LaggyTobey) or my Instagram (@lagtobfort) when you use my shader
 ## Things that are coming soon:
 - A video tutorial
-- Anisotropic Hair
 - Previews
-- Better Emission
 - Outlines
 - etc.
