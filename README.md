@@ -14,4 +14,5 @@ Like the title says, this is a shader in Blender specifically designed for (most
 - A video tutorial
 - Previews
 - Outlines
+- Soft Shading
 - etc.
