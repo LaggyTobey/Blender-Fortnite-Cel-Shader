@@ -1,7 +1,7 @@
 ### UPDATES (3/3/2023)
 I'm Back! Update
 - Retweaked glossiness
-- Integrated Color Attributes (Mainly used for Head Shading)
+- Integrated Color Attributes (Mainly used for head shading)
 - Integrated Tone Mapper (See this YouTube video for a tutorial: https://www.youtube.com/watch?v=oNBgbxif-dU)
 - Added DFColor texture support
 - Added Golden Gear Midas as a preview model
